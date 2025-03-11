@@ -53,11 +53,24 @@ pre=scaler.inverse_transform(prediction)
 print(f"Predicted Value: {pre}")
 ```
 ## Output:
-### Xscaled values:
-<img width="464" alt="image" src="https://github.com/user-attachments/assets/12c73887-f061-4dab-adda-d8a7ade662b2" />
+![Screenshot 2025-03-12 002925](https://github.com/user-attachments/assets/fe75afdf-02dc-4917-9075-b33b5578aef3)
 
-### Yscaled values:
-<img width="337" alt="image" src="https://github.com/user-attachments/assets/8defe41c-22bb-401d-b4a8-9d51b200541a" />
+
+
+<img width="281" alt="image" src="https://github.com/user-attachments/assets/59fceb4a-f67d-4d03-9324-a7b519fe0c77" />
+
+
+<img width="254" alt="image" src="https://github.com/user-attachments/assets/47cae3bc-d51e-4eda-8485-520a1c884176" />
+
+
+<img width="397" alt="image" src="https://github.com/user-attachments/assets/32c9f58e-af48-440f-a453-c99e9160d274" />
+
+
+<img width="140" alt="image" src="https://github.com/user-attachments/assets/e7f3866d-9593-4247-b26f-dc65d6889d3a" />
+
+
+<img width="379" alt="image" src="https://github.com/user-attachments/assets/0bae5b4a-1372-426a-bddd-4c10d50d22ff" />
+
 
 
 ## Result:
